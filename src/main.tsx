@@ -3,7 +3,6 @@ import ReactDOM from "react-dom/client";
 import "./index.css";
 import { Header } from "./Header.tsx";
 import { LeftForm } from "./LeftForm.tsx";
-import { Results } from "./Results.tsx";
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
